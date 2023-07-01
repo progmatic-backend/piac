@@ -6,7 +6,10 @@
 
 - Hány db hatósági áras termék van?
 - Mekkora a sós és édes termékek aránya?
-- Mi a legdrágább/legolcsóbb? 
+- Mi a legdrágább/legolcsóbb?
+
+
+  
 
 piac.txt
 
@@ -27,6 +30,8 @@ pityóka;1kg;400;TRUE;sós
 
 - A sorok formátuma (melyik rész mit jelent):
 név; egység; ár (Ft-ban); hatósági áras-e; kategória (sós/édes); beszerzési helyek vesszővel elválasztva, nem tudjuk előre hány db lesz (őket vmi Collectionben kell majd tárolnod)
+
+
 
 piac.txt
 
